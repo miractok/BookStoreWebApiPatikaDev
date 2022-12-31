@@ -1,1 +1,1 @@
-[Patika Dev Linki](www.patika.dev)
+[Patika Dev Linki](https://www.patika.dev)
