@@ -1,1 +1,1 @@
-[Patika Dev Linki](https://www.patika.dev)
+[Patika Dev Linki](https://app.patika.dev/muminarous)
